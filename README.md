@@ -18,8 +18,14 @@ This project is a **dynamic dashboard** built with **Streamlit** to visualize GD
 - **"Unselect All" button** to reset sector selections quickly.
 - Visualizations:
   - **Line Chart** for GDP values over time.
+![image](https://github.com/user-attachments/assets/4ac88f13-0f56-4cc3-9227-64adf27662a0)
+
   - **Heatmap** for sector-wise GDP values.
+![image](https://github.com/user-attachments/assets/3570759a-b8f6-4f1d-85b8-d5066c35dfa9)
+
   - **Pie Chart** for sector proportions.
+![image](https://github.com/user-attachments/assets/ea961a3b-087d-48f6-b1b0-55ca2a41220e)
+
 - **Dockerized** for easy deployment.
 
 ---
