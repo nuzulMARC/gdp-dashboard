@@ -21,7 +21,9 @@ This project is a **dynamic dashboard** built with **Streamlit** to visualize GD
 ![image](https://github.com/user-attachments/assets/ea961a3b-087d-48f6-b1b0-55ca2a41220e)
 
 - **Dockerized** for easy deployment.
+Just run `docker run -p 8501:8501 nuzul890/gdp-dashboard:latest`
 
+Or pull the image from Docker Hub and run it with `docker run -p 8501:8501 nuzul890/gdp-dashboard:latest`
 ---
 
 ## Table of Contents
