@@ -1,10 +1,4 @@
-Here’s the **updated `README.md`** with instructions for running the project using Docker, along with all the previous sections.
 
----
-
-### **`README.md`**
-
-```markdown
 # GDP Dashboard with Streamlit
 
 This project is a **dynamic dashboard** built with **Streamlit** to visualize GDP data. It allows users to filter GDP information by sector, year, and value range. The dashboard provides visualizations such as line plots, heatmaps, and pie charts for better insights. The app is **Dockerized** for easy setup and deployment.
